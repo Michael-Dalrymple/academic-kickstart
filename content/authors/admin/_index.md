@@ -13,9 +13,9 @@ superuser: true
 role: Actuarial Analyst
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+  #url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Actuary with sports analytics hobby.
