@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Purpose of this blog is to document my sports analytics hobby. Primarily will be focused on analyzing baseball and American football with R. Please feel free to reach out over twitter or email!
+Going to use this space as a blog documenting my sports analytics hobby. Primarily will be focused on analyzing baseball and American football with R. Please feel free to reach out over twitter or email!
